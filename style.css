@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2? family= Lato:ital@0;1 & display=swap');
+
+.cabecalho {
+    background-color: rgb(33, 45, 156);
+    color: white;
+    text-align: center;
+    flex-direction: column;
+    display: flex;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    justify-content: space-around;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.data {
+    background-color: rgb(29, 176, 202);
+    color: white;
+    text-align: left;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 14px;
+    width: 100%;
+}
+.info {
+    display: flex;
+    margin: 0;
+    flex-direction: column;
+    padding: 0;
+}
